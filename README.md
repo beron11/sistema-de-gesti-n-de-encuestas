@@ -84,6 +84,7 @@ Crea una nueva rama (git checkout -b feature/nueva-funcionalidad).
 Realiza los cambios necesarios y haz commit (git commit -m 'Añadida nueva funcionalidad').
 Sube los cambios a tu rama (git push origin feature/nueva-funcionalidad).
 Abre un Pull Request.
+
 Autor
 Creado por: David Cuartas y Sebastian Beron
 
