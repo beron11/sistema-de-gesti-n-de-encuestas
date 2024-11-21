@@ -53,8 +53,7 @@ python main.py
 Esto abrirá la ventana principal del sistema de gestión de encuestas.
 
 Estructura del Proyecto
-plaintext
-Copiar código
+
 ├── main.py                # Archivo principal para ejecutar la aplicación
 ├── create_survey.py       # Clase para crear encuestas
 ├── view_results.py        # Clase para ver resultados
