@@ -73,7 +73,8 @@ Esto abrirá la ventana principal del sistema de gestión de encuestas.
 │   ├── test_answer_survey.py
 
 ## Pruebas
-Si deseas ejecutar las pruebas unitarias, asegúrate de tener pytest instalado y ejecuta el siguiente comando en la raíz del proyecto:
+1. Si deseas ejecutar las pruebas unitarias, asegúrate de tener pytest instalado y ejecuta el siguiente comando en la raíz del proyecto:
+2. Ejecutar desde el main.py
 
 ### bash
 Copiar código
