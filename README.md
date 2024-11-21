@@ -1,8 +1,8 @@
-# sistema de gestion de encuestas
+## sistema de gestion de encuestas
 Sistema de Gestión de Encuestas
 Este proyecto es una aplicación gráfica creada en Python utilizando Tkinter. Permite la creación, visualización, y respuesta de encuestas, ofreciendo una interfaz amigable y fácil de usar.
 
-Funcionalidades
+## Funcionalidades
 Crear Encuestas:
 
 Añadir encuestas con un título y preguntas.
@@ -22,7 +22,7 @@ tkinter (incluido por defecto en Python)
 pytest (opcional, si deseas ejecutar las pruebas unitarias)
 Si no tienes pytest, puedes instalarlo con el siguiente comando:
 
-bash
+### bash
 Copiar código
 pip install pytest
 Instalación
@@ -30,29 +30,29 @@ Clona este repositorio o descarga los archivos en tu computadora.
 
 Asegúrate de estar en el directorio raíz del proyecto.
 
-Si usas un entorno virtual, actívalo (opcional):
+## Si usas un entorno virtual, actívalo (opcional):
 
-bash
+### bash
 Copiar código
 python -m venv venv
 source venv/bin/activate  # Linux/MacOS
 .\venv\Scripts\activate   # Windows
 Instala las dependencias necesarias:
 
-bash
+### bash
 Copiar código
 pip install -r requirements.txt
 Si no hay un archivo requirements.txt, asegúrate de tener Python configurado para usar tkinter.
 
-Ejecución del Programa
+## Ejecución del Programa
 Para ejecutar la aplicación, usa el siguiente comando:
 
-bash
+### bash
 Copiar código
 python main.py
 Esto abrirá la ventana principal del sistema de gestión de encuestas.
 
-Estructura del Proyecto
+## Estructura del Proyecto
 
 ├── main.py                # Archivo principal para ejecutar la aplicación
 ├── create_survey.py       # Clase para crear encuestas
@@ -64,21 +64,18 @@ Estructura del Proyecto
 │   ├── test_view_results.py
 │__ ├── test_answer_survey.py
 
-Pruebas
+## Pruebas
 Si deseas ejecutar las pruebas unitarias, asegúrate de tener pytest instalado y ejecuta el siguiente comando en la raíz del proyecto:
 
-bash
+### bash
 Copiar código
 pytest tests/
 Esto ejecutará todos los archivos de prueba en la carpeta tests.
 
-Personalización
+## Personalización
 Puedes personalizar la apariencia de la interfaz gráfica modificando los valores en cada archivo correspondiente, como los colores, fuentes, o dimensiones de las ventanas.
 
-Contribución
-Si deseas contribuir al proyecto, sigue estos pasos:
-
-Haz un fork del repositorio.
+## Haz un fork del repositorio.
 Crea una nueva rama (git checkout -b feature/nueva-funcionalidad).
 Realiza los cambios necesarios y haz commit (git commit -m 'Añadida nueva funcionalidad').
 Sube los cambios a tu rama (git push origin feature/nueva-funcionalidad).
