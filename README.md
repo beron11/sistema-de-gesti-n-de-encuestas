@@ -89,8 +89,8 @@ Realiza los cambios necesarios y haz commit (git commit -m 'Añadida nueva funci
 Sube los cambios a tu rama (git push origin feature/nueva-funcionalidad).
 Abre un Pull Request.
 
-Autor
+## Autor
 Creado por: David Cuartas y Sebastian Beron
 
-Licencia
+## Licencia
 Este proyecto está bajo la licencia MIT. Consulta el archivo LICENSE para más información.
