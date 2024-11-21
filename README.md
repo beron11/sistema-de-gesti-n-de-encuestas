@@ -90,7 +90,7 @@ Sube los cambios a tu rama (git push origin feature/nueva-funcionalidad).
 Abre un Pull Request.
 
 ## Autor
-Creado por: David Cuartas y Sebastian Beron
+### Creado por: David Cuartas y Sebastian Beron
 
 ## Licencia
 Este proyecto está bajo la licencia MIT. Consulta el archivo LICENSE para más información.
