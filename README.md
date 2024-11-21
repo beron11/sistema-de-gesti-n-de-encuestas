@@ -1,4 +1,4 @@
-# sistema-de-gestion-de-encuestas
+# sistema de gestion de encuestas
 Sistema de Gestión de Encuestas
 Este proyecto es una aplicación gráfica creada en Python utilizando Tkinter. Permite la creación, visualización, y respuesta de encuestas, ofreciendo una interfaz amigable y fácil de usar.
 
