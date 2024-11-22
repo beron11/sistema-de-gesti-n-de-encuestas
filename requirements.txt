@@ -1,0 +1,7 @@
+pytest>=7.4.0  # Para pruebas unitarias
+
+#Si en el futuro decides añadir nuevas dependencias, puedes agregarlas de forma similar
+numpy>=1.23.0
+pandas>=1.5.0
+
+pip install -r requirements.txt
