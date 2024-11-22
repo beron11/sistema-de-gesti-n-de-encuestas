@@ -1,4 +1,4 @@
-## sistema de gestion de encuestas
+## Sistema de gestion de encuestas
 Sistema de Gestión de Encuestas
 Este proyecto es una aplicación gráfica creada en Python utilizando Tkinter. Permite la creación, visualización, y respuesta de encuestas, ofreciendo una interfaz amigable y fácil de usar.
 
@@ -73,7 +73,8 @@ Esto abrirá la ventana principal del sistema de gestión de encuestas.
 │   ├── test_answer_survey.py
 
 ## Pruebas
-Si deseas ejecutar las pruebas unitarias, asegúrate de tener pytest instalado y ejecuta el siguiente comando en la raíz del proyecto:
+1. Si deseas ejecutar las pruebas unitarias, asegúrate de tener pytest instalado y ejecuta el siguiente comando en la raíz del proyecto:
+2. Ejecutar desde el main.py
 
 ### bash
 Copiar código
